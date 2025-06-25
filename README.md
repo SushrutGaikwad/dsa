@@ -1,6 +1,6 @@
-# DSA
+# Programming Practice
 
-This repository consists of all the DSA problems I solved.
+This repository consists of all the programming problems I solved.
 
 ## Pattern Practice Questions
 
