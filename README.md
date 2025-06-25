@@ -19,3 +19,11 @@ This repository consists of all the programming problems I solved.
 13. [Hollow Right Triangle](./01_Pattern_Practice_Questions/013_hollow_right_triangle/)
 14. [Hollow Inverted Right Triangle](./01_Pattern_Practice_Questions/014_hollow_inverted_right_triangle/)
 15. [Number Pyramid Pattern](./01_Pattern_Practice_Questions/015_number_pyramid_pattern/)
+
+## Function Practice Questions
+
+16. [Celsius to Fahrenheit](./02_Function_Practice_Questions/016_celsius_to_fahrenheit/)
+17. [Area of a Rectangle](./02_Function_Practice_Questions/017_area_of_rectangle/)
+18. [Distance covered by a Vehicle](./02_Function_Practice_Questions/018_distance_covered_by_vehicle/)
+19. [Number of Rounds of a Lift](./02_Function_Practice_Questions/019_number_of_rounds_of_lift/)
+20. [Line Equation](./02_Function_Practice_Questions/020_line_equation/)
