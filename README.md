@@ -45,3 +45,10 @@ This repository consists of all the programming problems I solved.
 33. [Palindromic Tuple](./03_Inbuilt_Data_Structure_Practice_Questions/033_palindromic_tuple/)
 34. [Merge Dictionaries with common keys](./03_Inbuilt_Data_Structure_Practice_Questions/034_merge_dictionaries_with_common_keys/)
 35. [Check if a List is a subset of another List](./03_Inbuilt_Data_Structure_Practice_Questions/035_check_if_a_list_is_a_subset_of_another_list/)
+
+# Mathematics Practice Questions
+
+36. [Sum of `n` even natural numbers](./04_Mathematics_Practice_Questions/036_sum_of_n_even_natural_numbers/)
+37. [Check if a number is even](./04_Mathematics_Practice_Questions/037_check_if_a_number_is_even/)
+38. [Check if a number is prime](./04_Mathematics_Practice_Questions/038_check_if_a_number_is_prime/)
+39. [Check if a number is a valid perfect square](./04_Mathematics_Practice_Questions/039_check_if_a_number_is_a_valid_perfect_square/)
