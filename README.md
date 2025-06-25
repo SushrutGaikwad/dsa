@@ -16,3 +16,6 @@ This repository consists of all the DSA problems I solved.
 10. [Diamond Pattern](./01_Pattern_Practice_Questions/010_diamond_pattern/)
 11. [Right Angled Triangle II](./01_Pattern_Practice_Questions/011_right_angled_triangle_ii/)
 12. [Sandglass Pattern](./01_Pattern_Practice_Questions/012_sandglass_pattern/)
+13. [Hollow Right Triangle](./01_Pattern_Practice_Questions/013_hollow_right_triangle/)
+14. [Hollow Inverted Right Triangle](./01_Pattern_Practice_Questions/014_hollow_inverted_right_triangle/)
+15. [Number Pyramid Pattern](./01_Pattern_Practice_Questions/015_number_pyramid_pattern/)
