@@ -12,3 +12,6 @@ This repository consists of all the DSA problems I solved.
 - [Pyramid Pattern](./01_Pattern_Practice_Questions/006_pyramid_pattern/)
 - [Inverted Pyramid Pattern](./01_Pattern_Practice_Questions/007_inverted_pyramid_pattern/)
 - [Right Angled Triangle with Numbers](./01_Pattern_Practice_Questions/008_right_angled_triangle_with_numbers/)
+- [Floyd's Triangle](./01_Pattern_Practice_Questions/009_Floyds_triangle/)
+- [Diamond Pattern](./01_Pattern_Practice_Questions/010_diamond_pattern/)
+- [Right Angled Triangle II](./01_Pattern_Practice_Questions/011_right_angled_triangle_ii/)
