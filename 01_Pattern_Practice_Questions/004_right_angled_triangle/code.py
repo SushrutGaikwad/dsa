@@ -15,11 +15,10 @@ def generate_triangle(n):
     return output
 
 
-print(generate_triangle(1))
-
-print(generate_triangle(3))
-
-print(generate_triangle(5))
+if __name__ == "__main__":
+    print(generate_triangle(1))
+    print(generate_triangle(3))
+    print(generate_triangle(5))
 
 # Output
 # ['*']

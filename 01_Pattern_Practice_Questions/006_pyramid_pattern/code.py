@@ -18,11 +18,10 @@ def generate_pyramid(n):
     return output
 
 
-print(generate_pyramid(1))
-
-print(generate_pyramid(3))
-
-print(generate_pyramid(5))
+if __name__ == "__main__":
+    print(generate_pyramid(1))
+    print(generate_pyramid(3))
+    print(generate_pyramid(5))
 
 # Output
 # ['*']

@@ -18,11 +18,10 @@ def generate_inverted_pyramid(n):
     return output
 
 
-print(generate_inverted_pyramid(1))
-
-print(generate_inverted_pyramid(3))
-
-print(generate_inverted_pyramid(5))
+if __name__ == "__main__":
+    print(generate_inverted_pyramid(1))
+    print(generate_inverted_pyramid(3))
+    print(generate_inverted_pyramid(5))
 
 # Output
 # ['*']

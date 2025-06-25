@@ -19,13 +19,11 @@ def generate_hollow_square(n):
     return output
 
 
-print(generate_hollow_square(1))
-
-print(generate_hollow_square(2))
-
-print(generate_hollow_square(3))
-
-print(generate_hollow_square(5))
+if __name__ == "__main__":
+    print(generate_hollow_square(1))
+    print(generate_hollow_square(2))
+    print(generate_hollow_square(3))
+    print(generate_hollow_square(5))
 
 
 # Output

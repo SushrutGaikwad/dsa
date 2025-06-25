@@ -15,9 +15,9 @@ def generate_square(n):
     return output
 
 
-print(generate_square(3))
-
-print(generate_square(5))
+if __name__ == "__main__":
+    print(generate_square(3))
+    print(generate_square(5))
 
 # Output
 # ['***', '***', '***']

@@ -16,11 +16,10 @@ def generate_rectangle(n, m):
     return output
 
 
-print(generate_rectangle(1, 1))
-
-print(generate_rectangle(3, 2))
-
-print(generate_rectangle(4, 5))
+if __name__ == "__main__":
+    print(generate_rectangle(1, 1))
+    print(generate_rectangle(3, 2))
+    print(generate_rectangle(4, 5))
 
 # Output
 # ['*']
